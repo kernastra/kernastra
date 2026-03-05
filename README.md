@@ -2,14 +2,12 @@
   <img src="hero.png" alt="Profile Banner" width="100%" />
 </div>
 
-<br/>
 
 <div align="center">
   <h1>Hey, I'm Kernastra 👋</h1>
   <p><em>Full-stack developer building tools, apps & services with a focus on performance and clean UI.</em></p>
 </div>
 
----
 
 ## About Me
 
@@ -19,7 +17,6 @@ Self-taught, self-driven full-stack developer with a passion for automation, sel
 - Always experimenting with homelab setups and open-source tooling
 - AI has fundamentally changed how I build and what I can build
 
----
 
 ## Interests
 
@@ -30,7 +27,6 @@ Self-taught, self-driven full-stack developer with a passion for automation, sel
 | Open Source | Dashboards, utilities, and dev tools |
 | Media & Streaming | Self-hosted libraries and streaming infrastructure |
 
----
 
 ## Tech Stack
 
@@ -46,26 +42,13 @@ Self-taught, self-driven full-stack developer with a passion for automation, sel
 
 </div>
 
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seantylermcdonald&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
----
-
 ## Support
 
-If something I built helped you out, consider buying me a coffee.
 
-<a href="https://www.buymeacoffee.com/seantylermcdonald" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="60" width="217">
-</a>
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="kernastra" data-color="#edc456" data-emoji="🥤"  data-font="Bree" data-text="Buy me a RedBull" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#FFDD00" ></script>
 
----
 
 <div align="center">
-  <sub>🌌 Built with curiosity and too much RedBull.</sub>
+  <sub>🌌 Built with curiosity and too much RedBull</sub>
 </div>
+
