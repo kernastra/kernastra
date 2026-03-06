@@ -15,8 +15,8 @@
 
 I believe that software is at its best when it’s built together. This profile serves as a central hub for my **Free and Open Source Software (FOSS)** initiatives. Whether it's a small utility script or a full-scale application, the goal is always the same: **transparency, accessibility, and community growth.**
 
-* **🚀 View my projects:** [Explore Repositories](https://github.com/YOUR_USERNAME?tab=repositories)
-* **🤝 Contribute:** Found a bug? Have a feature idea? PRs are always welcome! Check out the `CONTRIBUTING.md` in any repo to get started.
+* **🚀 View my projects:** [Explore Repositories](https://github.com/kernastra?tab=repositories)
+* **🤝 Contribute:** Found a bug? Have a feature idea? PRs are always welcome!
 * **⚖️ License:** Unless otherwise noted, my work is licensed under the **MIT License**, ensuring it stays free for everyone, forever.
 
 > "In open source, we feel neighbors help neighbors." — *Open Source Philosophy*
