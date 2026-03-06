@@ -2,51 +2,35 @@
   <img src="hero.png" alt="Profile Banner" width="100%" />
 </div>
 
-
-<div align="center">
-  <h1>Hey, I'm Kernastra 👋</h1>
-  <p><em>Full-stack developer building tools, apps & services with a focus on performance and clean UI.</em></p>
-</div>
-
-
-## About Me
-
-Self-taught, self-driven full-stack developer with a passion for automation, self-hosted infrastructure, and generative AI. I build programs that solve real problems — mine, and maybe yours too.
-
-- Obsessed with retro space aesthetics and clean, minimal design
-- Always experimenting with homelab setups and open-source tooling
-- AI has fundamentally changed how I build and what I can build
-
-
-## Interests
-
-| Area | Focus |
-|---|---|
-| DevOps & Homelab | Automation, self-hosting, infrastructure as code |
-| AI Development | Generative AI tools, AI-assisted workflows |
-| Open Source | Dashboards, utilities, and dev tools |
-| Media & Streaming | Self-hosted libraries and streaming infrastructure |
-
-
-## Tech Stack
+<br/>
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 
 </div>
 
-## Support
+I believe that software is at its best when it’s built together. This profile serves as a central hub for my **Free and Open Source Software (FOSS)** initiatives. Whether it's a small utility script or a full-scale application, the goal is always the same: **transparency, accessibility, and community growth.**
 
+* **🚀 View my projects:** [Explore Repositories](https://github.com/YOUR_USERNAME?tab=repositories)
+* **🤝 Contribute:** Found a bug? Have a feature idea? PRs are always welcome! Check out the `CONTRIBUTING.md` in any repo to get started.
+* **⚖️ License:** Unless otherwise noted, my work is licensed under the **MIT License**, ensuring it stays free for everyone, forever.
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="kernastra" data-color="#edc456" data-emoji="🥤"  data-font="Bree" data-text="Buy me a RedBull" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#FFDD00" ></script>
+> "In open source, we feel neighbors help neighbors." — *Open Source Philosophy*
 
+<br>
+<br>
+
+<div align="center">
+   <a href="https://www.buymeacoffee.com/kernastra" target="_blank">
+     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="60" width="217">
+   </a>
+</div>
+
+<br>
 
 <div align="center">
   <sub>🌌 Built with curiosity and too much RedBull</sub>
