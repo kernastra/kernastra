@@ -14,6 +14,13 @@
 
 </div>
 
+<br/>
+
+<div align="center">
+
+![](https://komarev.com/ghpvs/?username=kernastra&color=d3b037)
+
+</div>
 I believe that software is at its best when it’s built together. This profile serves as a central hub for my **Free and Open Source Software (FOSS)** initiatives. Whether it's a small utility script or a full-scale application, the goal is always the same: **transparency, accessibility, and community growth.**
 
 * **🚀 View my projects:** [Explore Repositories](https://github.com/kernastra?tab=repositories)
