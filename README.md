@@ -7,18 +7,9 @@
 <div align="center">
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)
-![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 
 </div>
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=kernastra&color=d3b037)
-
-</div>
 
 I believe that software is at its best when it’s built together. This profile serves as a central hub for my **Free and Open Source Software (FOSS)** initiatives. Whether it's a small utility script or a full-scale application, the goal is always the same: **transparency, accessibility, and community growth.**
 
@@ -30,13 +21,13 @@ I believe that software is at its best when it’s built together. This profile 
 
 <br>
 <br>
-
+<!--
 <div align="center">
    <a href="https://www.buymeacoffee.com/kernastra" target="_blank">
      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="60" width="217">
    </a>
 </div>
-
+-->
 <br>
 
 <div align="center">
