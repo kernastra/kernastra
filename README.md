@@ -1,36 +1,46 @@
 <div align="center">
-  <img src="hero.png" alt="Profile Banner" width="100%" />
+  <img src="hero.png" alt="Kernastra — open-source software, homelab systems, and developer tools" width="100%" />
 </div>
 
-<br/>
+<br />
 
 <div align="center">
-
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
+  <strong>Practical open-source tools for Linux, homelabs, media systems, and the web.</strong>
 </div>
 
+<br />
 
-I believe that software is at its best when it’s built together. This profile serves as a central hub for my **Free and Open Source Software (FOSS)** initiatives. Whether it's a small utility script or a full-scale application, the goal is always the same: **transparency, accessibility, and community growth.**
+## Build what you wish existed
 
-* **🚀 View my projects:** [Explore Repositories](https://github.com/kernastra?tab=repositories)
-* **🤝 Contribute:** Found a bug? Have a feature idea? PRs are always welcome!
-* **⚖️ License:** Unless otherwise noted, my work is licensed under the **MIT License**, ensuring it stays free for everyone, forever.
+Most projects here begin with a problem in my own setup: a repetitive task, a missing interface, or a tool that could be easier to use.
 
-> "In open source, we feel neighbors help neighbors." — *Open Source Philosophy*
+I build the solution, document what I learn, and publish it so other people can inspect it, adapt it, and make it better.
 
-<br>
-<br>
-<!--
+## Featured projects
+
+| Project | What it does | Built with |
+|---|---|---|
+| [apollo](https://github.com/kernastra/apollo) | Bootstraps a homelab with opinionated paths and Docker Compose configurations. | Shell · Docker |
+| [hyperion](https://github.com/kernastra/hyperion) | A modern web interface for downloading media with `yt-dlp`. | TypeScript · Next.js |
+| [pixelnova](https://github.com/kernastra/pixelnova) | A command-line utility for upscaling and organizing images. | Python |
+| [fedora-postinstall-checklist](https://github.com/kernastra/fedora-postinstall-checklist) | An interactive terminal checklist for configuring a fresh Fedora installation. | Python · TUI |
+
+## What I build around
+
+- Self-hosting and homelab infrastructure
+- Linux automation and setup tooling
+- Media-server utilities
+- Command-line and developer tools
+- Small web applications and experiments
+
+## Contributing
+
+Issues, ideas, and pull requests are welcome. Each repository contains its own setup instructions, project status, and licensing information.
+
+If you find something useful but confusing, opening an issue is already a contribution.
+
+<br />
+
 <div align="center">
-   <a href="https://www.buymeacoffee.com/kernastra" target="_blank">
-     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="60" width="217">
-   </a>
+  <sub>Built somewhere between a terminal, a server rack, and a garage.</sub>
 </div>
--->
-<br>
-
-<div align="center">
-  <sub>🌌 Built with curiosity and too much RedBull</sub>
-</div>
-
